@@ -190,7 +190,7 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-war-plugin</artifactId>
-                    <version>2.6</version>
+                    <version>3.2.2</version>
                     <configuration>
                         <webResources>
                             <!-- Try to include a build.txt file in the generated war that contains version and build
